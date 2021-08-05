@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TextView Dynamic Addition</string>
+    <string name="add_text_view">Add TextView</string>
+</resources>
